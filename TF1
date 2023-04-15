@@ -11,3 +11,5 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=52464&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=35680&extension=ts&play_token=4PDP8qDxBR
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/447px-ITV_logo_2019.svg.png" group-title="UK",iTV 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97037&extension=ts&play_token=3P1X1qQeBK
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="US",HBO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=61395&extension=ts&play_token=Ktc3tfDK0z
