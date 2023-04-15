@@ -1,8 +1,9 @@
 #EXTM3U x-tvg-url="http://xmltv.bigsb.fr/xmltv.xml"
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF 1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1+1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=43898&extension=ts&play_token=Yr4kzl7VeA
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF 4K
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 4K
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=457174&extension=ts&play_token=HRE3u5yH3N
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=43895&extension=ts&play_token=vWTPpy1I4t
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD
 
