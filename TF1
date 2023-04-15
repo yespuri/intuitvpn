@@ -7,5 +7,5 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=457174&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=43895&extension=ts&play_token=vWTPpy1I4t
 #EXTINF:-1 tvg-id="laune.fr" tvg-logo="https://www.static.rtbf.be/news/common/svg/tv/laune-200x200.svg" group-title="Entertainment",La Une
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=52464&extension=ts&play_token=5TFW9CMeRv
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF 1
+#EXTINF:-1 tvg-id="tipikfhd.fr" tvg-logo="https://www.static.rtbf.be/news/common/svg/tv/tipik-200x200.svg" group-title="Entertainment",TiPik
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=35680&extension=ts&play_token=4PDP8qDxBR
