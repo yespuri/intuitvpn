@@ -13,3 +13,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=35680&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97037&extension=ts&play_token=3P1X1qQeBK
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="US",HBO
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=61395&extension=ts&play_token=Ktc3tfDK0z
+#EXTINF:-1 tvg-id="bbcearth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="UK",BBC Earth
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97256&extension=ts&play_token=2gnyKTI2RA
+
