@@ -9,7 +9,7 @@
     <display-name>To My Star Season 2: Our Untold Stories EPISODE 2</display-name>
     <icon src="https://0.soompi.io/wp-content/uploads/2022/05/24112457/Son-Woo-Hyun-Kim-Kang-Min.jpeg"/>
   </channel>
-  <programme start="2023-04-18 00:00:00 +0000" stop="2023-04-18 00:30:00 +0000" channel="channel1.group1.mydomain.com">
+  <programme start="2023-04-18 00:00:00 +0000" stop="2023-04-18 00:30:00 +0000" channel="TMS2.kr">
     <title>Program Title 1</title>
     <desc>Program Description 1</desc>
     <category><![CDATA[Category 1]]></category>
