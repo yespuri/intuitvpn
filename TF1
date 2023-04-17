@@ -15,5 +15,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97037&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=61395&extension=ts&play_token=Ktc3tfDK0z
 #EXTINF:-1 tvg-id="bbcearth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="UK",BBC Earth
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97256&extension=ts&play_token=2gnyKTI2RA
-#EXTINF:1523 tvg-id="TF1.fr" tvg-logo="https://luciferdonghua.in/wp-content/uploads/2023/01/the-land-of-miracles-season-2.webp" group-title="Donghua",Land of Miracles
+#EXTINF:1523 tvg-id="My Channel" tvg-logo="https://luciferdonghua.in/wp-content/uploads/2023/01/the-land-of-miracles-season-2.webp" group-title="Donghua",Land of Miracles
 https://audebook2.audybooks.workers.dev/4:/BL%20SERIES/TO%20MY%20STAR%202/TMS%202%20EP01.mkv
+#EXTINF:-1 tvg-id="Given.jp" tvg-logo="https://cdn.anime-planet.com/anime/primary/given-movie-1-190x286.jpg" group-title="BL SERIES/MOVIES",GIVEN
+https://tc-1.dayimage.net/_v6/9863936028d7de26113f7d1e6c4e149fce2ba6c0fdf2780e8a688e0b27e37a4be0d21f9434868e1a5cbc14328cfab7ffeadfa01458f9fa564abf6ab74d77633b88915abd086eb8723ef109e097d22b77b343b17a1d5f148090eb8718b16f4df5583327c8c8eed8d397d09e6470ac8c9dad773e74edf1f730abbe98309aa2e9eb/index-f1-v1-a1.m3u8?subtitle=https://cc.zorores.com/ec/02/ec02120d99f354f495d4c0cdd13313ee/eng-2.vtt
+
