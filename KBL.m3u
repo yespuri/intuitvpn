@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://xmltv.bigsb.fr/xmltv.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml.gz"
+#EXTM3U x-tvg-url="http://xmltv.bigsb.fr/xmltv.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml.gz,https://raw.githubusercontent.com/yespuri/intuitvpn/main/TMS2.xml"
 #EXTINF:0 tvg-id="TMS2.kr" tvg-logo="https://i.mydramalist.com/epvZQ_4f.jpg" group-title="To My Star Season 2: Our Untold Stories", EPISODE 1
 https://audebook2.audybooks.workers.dev/4:/BL%20SERIES/TO%20MY%20STAR%202/TMS%202%20EP01.mkv
 #EXTINF:0 tvg-id="TMS2.kr" tvg-logo="https://i.mydramalist.com/epvZQ_4f.jpg" group-title="To My Star Season 2: Our Untold Stories", EPISODE 2
