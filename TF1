@@ -15,4 +15,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97037&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=61395&extension=ts&play_token=Ktc3tfDK0z
 #EXTINF:-1 tvg-id="bbcearth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="UK",BBC Earth
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:ac:82&stream=97256&extension=ts&play_token=2gnyKTI2RA
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://luciferdonghua.in/wp-content/uploads/2023/01/the-land-of-miracles-season-2.webp" group-title="Donghua",Land of Miracles
+https://proxy-17.sg1.dailymotion.com/sec(x7QhsFQT25E0iGMBVv6oUELS30Nf7df2cjENTz7jNL9Ax_4aBY6w-3dfd62vze0Z7RD3ewWmxfd9fOiz37cAMMg7dq01Ib9llDGW2K3uk94)/video/450/994/517499054_mp4_h264_aac_fhd_13.m3u8#cell=sg1
 
